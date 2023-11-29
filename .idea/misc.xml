@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1975" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable/list_round.xml" value="0.199" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable/rounded_corner.xml" value="0.1975" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/drawable/voice_detector.xml" value="0.143" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/action_bar_layout.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_desboard2.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_list_of_item.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_mit_login.xml" value="0.24390243902439024" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_otp.xml" value="0.1859375" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_register_page.xml" value="0.25" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_voice_detector.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_websites1.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/activity_welcome.xml" value="0.1933876811594203" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/chat_item.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/dashboard.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/fragment_item.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/fragment_item_list.xml" value="0.1859375" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/fragment_mit.xml" value="0.1859375" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/fragment_rgpv.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/MalwaInstute/app/src/main/res/xml/network_security_config.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

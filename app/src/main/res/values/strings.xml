@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MIT Assistant</string>
+    <string name="username">Username</string>
+    <string name="mit_assistant">MIT Assistant</string>
+    <string name="password">Password</string>
+    <string name="textview">TextView</string>
+    <string name="Login">Log In</string>
+    <string name="Loginbtn">Login</string>
+    <string name="button">Button</string>
+    <string name="registertext">Create New Account</string>
+    <string name="register">Register</string>
+    <string name="Department">Department</string>
+    <string name="dept">department</string>
+    <string name="rollNo">rollno</string>
+    <string name="Rollno">Roll no</string>
+    <string name="welcome">Hey sir Welcome to my app</string>
+    <string name="write_here">Write here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795562131968",
+    "project_id": "mitassistant-78f2e",
+    "storage_bucket": "mitassistant-78f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795562131968:android:b7b9c101b887b6578bcee5",
+        "android_client_info": {
+          "package_name": "com.example.malwainstute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795562131968-bth7nlt0p5lomv68d7sb0ahaarpq37us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.malwainstute",
+            "certificate_hash": "ac1f147615326a4544780cd6c67964b5631ac58c"
+          }
+        },
+        {
+          "client_id": "795562131968-0dbgbqkk8goia2uc30ci5phhfoknroj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNbE6Q47RtorP526rOHd-YWomeSJ3YDiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795562131968-0dbgbqkk8goia2uc30ci5phhfoknroj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

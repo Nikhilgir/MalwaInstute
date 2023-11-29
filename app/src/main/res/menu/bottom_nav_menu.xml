@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mit"
+        android:title="MIT"
+        android:icon="@drawable/logo2"
+        />
+
+    <item android:id="@+id/rgpv"
+        android:title="RGPV"
+        android:icon="@drawable/rgpv"/>
+
+    <item android:id="@+id/dashboard"
+        android:title="Profile"
+        android:icon="@drawable/user"/>
+</menu>
